@@ -1,0 +1,4 @@
+eurocoin
+========
+
+Cryptocurrency coin
